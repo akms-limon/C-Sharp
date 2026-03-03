@@ -1,6 +1,9 @@
 .vs/
-.vs/
 bin/
 obj/
 *.user
 *.suo
+.config/
+Properties/
+.sln/
+.csproj/
