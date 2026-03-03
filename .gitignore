@@ -3,7 +3,7 @@ bin/
 obj/
 *.user
 *.suo
-.config/
+*.config
 Properties/
-.sln/
-.csproj/
+*.sln
+*.csproj
