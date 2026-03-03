@@ -10,6 +10,21 @@ namespace _01_properties_of_console_class
     {
         static void Main(string[] args)
         {
+            // Print with new line
+            Console.WriteLine("Hello world");
+
+            // Print without new line
+            Console.Write("Hello");
+
+            //Input
+            string name;
+            name = Console.ReadLine();
+
+            // Output
+            Console.WriteLine($"Hello {name}");
+
+            //It will make Beep Sound
+            Console.Beep();
         }
     }
 }
